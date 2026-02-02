@@ -15,9 +15,8 @@ if (n > 0) {
   console.log(`${n} là số âm`);
   console.log(`Giá trị ${n} không hợp lệ để tạo dãy số`)
 } else {
-  console.log(`{$n} bằng 0`);
+  console.log(`${n} bằng 0`);
 }
-
 
 
 // Câu 2
